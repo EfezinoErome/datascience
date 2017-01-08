@@ -1,7 +1,3 @@
-# Efezino.github.io
+# datascience
 
-Copyright @ EfezinoErome
-
-## Description 
-
-This is the readme file for this repository
+Welcome to my Github repo.
